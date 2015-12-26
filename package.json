@@ -1,0 +1,21 @@
+{
+  "name": "eslint-config-frux",
+  "version": "1.0.0",
+  "description": "Common ESLint rules",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raulmatei/eslint-config-frux.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "frux"
+  ],
+  "author": "Raul Matei",
+  "license": "Artistic-2.0",
+  "bugs": {
+    "url": "https://github.com/raulmatei/eslint-config-frux/issues"
+  },
+  "homepage": "https://github.com/raulmatei/eslint-config-frux"
+}
